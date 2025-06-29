@@ -1,0 +1,18 @@
+CREATE DATABASE IF NOT EXISTS blogms;
+USE blogms;
+
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(100) UNIQUE NOT NULL,
+    password VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE blogs (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    blog_name VARCHAR(255) NOT NULL,
+    blog_content TEXT NOT NULL,
+    image VARCHAR(255),
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    user_id INT,
+    FOREIGN KEY (user_id) REFERENCES users(id)
+);
