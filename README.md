@@ -14,7 +14,7 @@ A simple and responsive blogging platform built using *PHP, **MySQL, **HTML, **C
 
 Simple_Blog_Platform/
                       ├── assets/vendors/        # External CSS and JS libraries
-                      ├── uploads/               # Uploaded blog images
+                      ├── uploads/               # Uploaded blog images 
                       ├── blog.sql               # MySQL database structure and sample data
                       ├── connection.php         # Database connection script
                       ├── create.php             # Page to create new blog post
