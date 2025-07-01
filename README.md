@@ -12,7 +12,7 @@ A simple and responsive blogging platform built using *PHP, **MySQL, **HTML, **C
 
 ## 🗂 Project Structure
 
-Rava-s-Blog_Platform/ ├── assets/vendors/        # External CSS and JS libraries
+Simple_Blog_Platform/ ├── assets/vendors/        # External CSS and JS libraries
                       ├── uploads/               # Uploaded blog images
                       ├── blog.sql               # MySQL database structure and sample data
                       ├── connection.php         # Database connection script
@@ -26,8 +26,8 @@ Rava-s-Blog_Platform/ ├── assets/vendors/        # External CSS and JS lib
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/revachavhan/Rava-s-Blog_Platform.git
-cd Rava-s-Blog_Platform
+git clone https://github.com/revachavhan/Simple_Blog_Platform.git
+cd Simple_Blog_Platform
 
 2. Setup the Database
 
@@ -51,4 +51,4 @@ $dbname = 'blog';
 
 Use XAMPP, WAMP, or any local PHP server and open in your browser:
 
-http://localhost/Rava-s-Blog_Platform/index.php
+http://localhost/Simple_Blog_Platform/index.php
