@@ -12,7 +12,14 @@ A simple and responsive blogging platform built using *PHP, **MySQL, **HTML, **C
 
 ## 🗂 Project Structure
 
-Rava-s-Blog_Platform/ ├── assets/vendors/        # External CSS and JS libraries ├── uploads/               # Uploaded blog images ├── blog.sql               # MySQL database structure and sample data ├── connection.php         # Database connection script ├── create.php             # Page to create new blog post ├── delete.php             # Page to delete blog post ├── edit.php               # Page to edit existing post ├── index.php              # Homepage to list all blog posts
+Rava-s-Blog_Platform/ ├── assets/vendors/        # External CSS and JS libraries
+                      ├── uploads/               # Uploaded blog images
+                      ├── blog.sql               # MySQL database structure and sample data
+                      ├── connection.php         # Database connection script
+                      ├── create.php             # Page to create new blog post
+                      ├── delete.php             # Page to delete blog post
+                      ├── edit.php               # Page to edit existing post
+                      ├── index.php              # Homepage to list all blog posts
 
 ## 🛠 Installation Guide
 
