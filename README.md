@@ -7,7 +7,7 @@ A simple and responsive blogging platform built using *PHP, **MySQL, **HTML, **C
 - 📝 Add, edit, and delete blog posts
 - 📂 Upload and display blog images
 - 🧩 Bootstrap 4 responsive design
-- 🛠 Clean, modular PHP structure
+- 🛠 Clean, modular PHP structure 
 - 🗃 MySQL database with included SQL file
 
 ## 🗂 Project Structure
