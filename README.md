@@ -11,7 +11,7 @@ A simple and responsive blogging platform built using *PHP, **MySQL, **HTML, **C
 - 🗃 MySQL database with included SQL file
 
 ## 🗂 Project Structure
-
+```
 Simple_Blog_Platform/
 ├── assets/vendors/           # External CSS and JS libraries
 ├── uploads/                  # Uploaded blog images
@@ -21,7 +21,7 @@ Simple_Blog_Platform/
 ├── delete.php                # Page to delete blog post
 ├── edit.php                  # Page to edit existing post
 └── index.php                 # Homepage to list all blog posts
-
+```
 
 
 
